@@ -1,0 +1,15 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.reveal .code {
+    font-family: Hack, Courier New, monospace;
+}
+
+.reveal ul {
+    list-style-type: none;
+}
+
+.hidden {
+    display: none;
+}
